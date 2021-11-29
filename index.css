@@ -1,0 +1,79 @@
+.head {
+    text-align: center;
+    border: 5px solid purple;
+    background-color: whitesmoke;
+}
+.me {
+    border: 5px solid purple;   
+}
+.infome {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mefoto {
+    width: 10%;
+    text-align: left;
+}
+
+h1 {
+    font-family: Garamond, serif;
+}
+
+h2 {
+    font-family: 'Times New Roman', serif;
+}
+
+p {
+    font-family: Tahoma, sans-serif;
+}
+
+.infoschool {
+    display: flex;
+    justify-content: space-between;
+}
+
+.infowork {
+    display: flex;
+    justify-content: space-between;
+}
+
+.school {
+    border: 3px solid purple;
+    
+}
+
+.work {
+    border: 3px solid purple;
+}
+
+.socials {
+    border: 3px solid purple;
+}
+
+.infosocial {
+    display: flex;
+    justify-content: center;  
+}
+
+.contact {
+    border: 3px solid purple;
+}
+
+.infocontact {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: rgb(44, 25, 207);
+}
+
+.infocv {
+    display: flex;
+    justify-content: center;
+}
+
+.cv {
+    border: 3px solid purple;
+}
