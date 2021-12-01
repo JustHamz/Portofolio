@@ -1,12 +1,14 @@
+.title {
+color:white;
+}
+
 .head {
     text-align: center;
-    border: 5px solid black;
-    background-color: whitesmoke;
 }
 .me {
     border: 5px solid black;
-    margin: 3px;
-    background-color: whitesmoke;   
+    margin: 30px;
+    background-color: white;   
 }
 .infome {
     display: flex;
@@ -42,20 +44,20 @@ p {
 
 .school {
     border: 3px solid black;
-    margin: 3px;
-    background-color: whitesmoke;
+    margin: 30px;
+    background-color: white;
 }
 
 .work {
     border: 3px solid black;
-    margin: 3px;
-    background-color: whitesmoke;
+    margin: 30px;
+    background-color: white;
 }
 
 .socials {
     border: 3px solid black;
-    margin: 3px;
-    background-color: whitesmoke;
+    margin: 30px;
+    background-color: white;
 }
 
 .infosocial {
@@ -65,8 +67,8 @@ p {
 
 .contact {
     border: 3px solid black;
-    margin: 3px;
-    background-color: whitesmoke;
+    margin: 30px;
+    background-color: white;
 }
 
 .infocontact {
@@ -76,6 +78,7 @@ p {
 
 body {
     background-color: whitesmoke(44, 25, 207);
+    background-image: url("stars.jpg");
 }
 
 .infocv {
@@ -85,6 +88,7 @@ body {
 
 .cv {
     border: 3px solid black;
-    margin: 3px;
-    background-color: whitesmoke;
+    margin: 30px;
+    background-color: white;
 }
+
