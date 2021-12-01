@@ -1,10 +1,12 @@
 .head {
     text-align: center;
-    border: 5px solid purple;
+    border: 5px solid black;
     background-color: whitesmoke;
 }
 .me {
-    border: 5px solid purple;   
+    border: 5px solid black;
+    margin: 3px;
+    background-color: whitesmoke;   
 }
 .infome {
     display: flex;
@@ -39,16 +41,21 @@ p {
 }
 
 .school {
-    border: 3px solid purple;
-    
+    border: 3px solid black;
+    margin: 3px;
+    background-color: whitesmoke;
 }
 
 .work {
-    border: 3px solid purple;
+    border: 3px solid black;
+    margin: 3px;
+    background-color: whitesmoke;
 }
 
 .socials {
-    border: 3px solid purple;
+    border: 3px solid black;
+    margin: 3px;
+    background-color: whitesmoke;
 }
 
 .infosocial {
@@ -57,7 +64,9 @@ p {
 }
 
 .contact {
-    border: 3px solid purple;
+    border: 3px solid black;
+    margin: 3px;
+    background-color: whitesmoke;
 }
 
 .infocontact {
@@ -66,7 +75,7 @@ p {
 }
 
 body {
-    background-color: rgb(44, 25, 207);
+    background-color: whitesmoke(44, 25, 207);
 }
 
 .infocv {
@@ -75,5 +84,7 @@ body {
 }
 
 .cv {
-    border: 3px solid purple;
+    border: 3px solid black;
+    margin: 3px;
+    background-color: whitesmoke;
 }
